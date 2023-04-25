@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   an attempt to create a blog
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "keyclimbs.com"
 
 github:
   username: keyclimbs # change to your github username
