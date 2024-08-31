@@ -14,5 +14,5 @@
     <img src="https://m.media-amazon.com/images/I/91XLN3fDE7L._SL1500_.jpg" alt="book" width="75" align="left"/>
     <img src="https://m.media-amazon.com/images/I/91PMdBWVONL._SL1500_.jpg" alt="book" width="75" align="left"/>
     <img src="https://m.media-amazon.com/images/I/81ntpaenZKL._SL1500_.jpg" alt="book" width="75" align="left"/>
-    <img src="https://m.media-amazon.com/images/I/81SmVR3lp7L._SL1500_.jpg" alt="[book](https://www.amazon.com/Art-Focus-Meaning-Reinvent-Yourself/)" width="75" align="left"/>
-    <img src="" alt="book" width="75" align="left"/>
+    <img src="https://m.media-amazon.com/images/I/81SmVR3lp7L._SL1500_.jpg" alt="book" width="75" align="left"/>
+    <img src="https://m.media-amazon.com/images/I/51yc0TeNM5L._SL1499_.jpg" alt="book" width="75" align="left"/>
