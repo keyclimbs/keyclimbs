@@ -1,11 +1,10 @@
-### 👋Hi there, I'm Key 
+### 👋Hi there, I'm Ki
 
-I'm a passionate Cyber Security enthusiast with a deep-seated interest in the intersection of computer science and cybersecurity. My journey spans various areas, including neural networks, cryptography, and binary exploitation. I thrive on exploring complex systems and uncovering vulnerabilities to enhance security and resilience.
 
-When I'm not immersing myself in the latest cybersecurity developments or tackling intricate coding challenges, you'll find me running through trails🏃‍ or scaling rock faces🧗. These pursuits help me stay agile, both mentally and physically, and fuel my curiosity and determination.
 
-Driven by a commitment to safeguard digital spaces and advance technological understanding, I aim to contribute to the cybersecurity community through innovation, collaboration, and continuous learning.
-
+I’m a passionate computer science and cybersecurity enthusiast with a deep interest in neural networks, cryptography, and binary exploitation. I enjoy exploring complex systems, uncovering vulnerabilities, and helping strengthen security and resilience.
+When I’m not following the latest cybersecurity developments or working through challenging coding problems, you’ll find me running trails 🏃‍ or scaling rock faces 🧗. Those pursuits keep me sharp, disciplined, and curious.
+Driven to protect digital spaces and advance technical understanding, I aim to contribute to the cybersecurity community through innovation, collaboration, and continuous learning.
 
 
 
